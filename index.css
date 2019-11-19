@@ -26,10 +26,21 @@ nav {
     padding: 80px 15px 10px 15px;
   }
 
-main {
+.workout {
     padding-top: 100px;
 }
 
 .date{
     background-color: lightgrey;
+}
+
+table{
+    margin: auto;
+    margin-top: 15px;
+}
+
+.new{
+    display: block;
+    margin: 20px auto;
+
 }
