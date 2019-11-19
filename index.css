@@ -25,3 +25,11 @@ nav {
   header {
     padding: 80px 15px 10px 15px;
   }
+
+main {
+    padding-top: 100px;
+}
+
+.date{
+    background-color: lightgrey;
+}
