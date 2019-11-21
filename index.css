@@ -10,39 +10,45 @@ body {
     line-height: 1.5;
 }
 
-nav, footer {
+nav,
+footer {
     background-color: lightgrey;
 }
 
+h1{
+    margin:0;
+}
+
+body{
+    margin:0;
+}
+
 nav {
-    position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 10;
-  }
-
-  header {
-    padding: 80px 15px 10px 15px;
-  }
-.mainpage{
-    margin-top: 100px;
 }
+
+header {
+    padding: 0px 15px 10px 15px;
+}
+
 
 .workout {
-    padding-top: 100px;
+    padding-top: 20px;
 }
 
-.date{
+.date {
     background-color: lightgrey;
 }
 
-table{
+table {
     margin: auto;
     margin-top: 15px;
 }
 
-.new{
+.new {
     display: block;
     margin: 20px auto;
 
